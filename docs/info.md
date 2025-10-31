@@ -17,4 +17,4 @@ No Clue
 
 ## External hardware
 
-Problem something
+Probably something
