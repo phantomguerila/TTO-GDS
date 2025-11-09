@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-I'm not sure yet
+Hidden in the logic are the numbers 0-9! Flip different combinations of dip switches to find the numbers 0-9. When the a correct combination is found, a number will display on the 7-segment display. If no number is shown (or the red dot on the bottom right is lit) then you have not found a valid combination. Combinations may be 1 to 8 digits long...all the dip...all the switch! 
 
 ## How to test
 
@@ -17,4 +17,4 @@ No Clue
 
 ## External hardware
 
-Probably something
+To be used with the Tiny Tapeout project PCB. Dip switches and 7-segment display are on TT-PCB.
